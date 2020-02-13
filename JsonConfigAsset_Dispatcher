@@ -1,0 +1,9 @@
+Config state machine specific
+{
+'QueueName':'PutYourQueueName',
+'ErrorScreenshotFolder':'StandardFolderForErrorScreenshot'
+}
+
+
+BusinessAssets json
+{'BusinessMail':'','Something':''}
